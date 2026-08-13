@@ -1,3 +1,5 @@
+// Write a program that displays the size of every data type.
+
 #include <iostream>
 
 using namespace std;

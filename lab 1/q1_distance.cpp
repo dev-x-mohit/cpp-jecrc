@@ -1,3 +1,5 @@
+// Write a program to calculate the distance between two points.
+
 #include <iostream>
 #include <cmath>
 

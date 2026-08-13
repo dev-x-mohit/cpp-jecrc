@@ -1,3 +1,5 @@
+// Write a program to enter any character. If the entered character is in lower case, convert it into upper case. If it is a lower case character, then convert it into upper case.
+
 #include <iostream>
 #include <cctype>
 

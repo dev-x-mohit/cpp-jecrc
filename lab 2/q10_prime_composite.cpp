@@ -1,3 +1,5 @@
+// Write a program to classify a given number as prime or composite.
+
 #include <iostream>
 
 using namespace std;

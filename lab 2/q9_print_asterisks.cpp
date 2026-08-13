@@ -1,3 +1,5 @@
+// Write a program to print 20 horizontal asterisks (*)
+
 #include <iostream>
 
 using namespace std;
